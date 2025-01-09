@@ -85,7 +85,7 @@ html,body{
     grid-row-end: 5;
 }
 
-@media(max-width:400px) {
+@media(max-width:420px) {
     .calculator_1 .textfild{
         font-size: 5rem;
     }
